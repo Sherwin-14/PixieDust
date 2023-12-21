@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Disney dataset from Kaggle is a comprehensive dataset that provides detailed information about Disney movies and TV shows[^1^][1]. It's an excellent resource for data analysis and visualization, offering insights into Disney's content.
+The Disney dataset from Kaggle is a comprehensive dataset that provides detailed information about Disney movies and TV shows. It's an excellent resource for data analysis and visualization, offering insights into Disney's content.
 
 ## Objectives
 
